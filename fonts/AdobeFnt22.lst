@@ -1,0 +1,49 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TrebuchetMS
+FamilyName:Trebuchet MS
+StyleName:Regular
+FullName:Trebuchet MS
+MenuName:Trebuchet MS
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:X:\Shared\Marketing\Communications\Internal\Clicksafety\Clicksafety Homepage Draft\Document fonts\trebuc.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:254396
+FileModTime:1575713307
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Trebuchet MS
+NameArray:0,Win,1,Trebuchet MS
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TrebuchetMS-Bold
+FamilyName:Trebuchet MS
+StyleName:Bold
+FullName:Trebuchet MS Bold
+MenuName:Trebuchet MS
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:X:\Shared\Marketing\Communications\Internal\Clicksafety\Clicksafety Homepage Draft\Document fonts\trebucbd.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:244124
+FileModTime:1575713307
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Trebuchet MS Bold
+NameArray:0,Win,1,Trebuchet MS
+%EndFont
+
